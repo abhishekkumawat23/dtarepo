@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RunSettings>
+    <RunConfiguration>
+        <ResultsDirectory>.\DataCollectionResults</ResultsDirectory>
+    </RunConfiguration>
+    <DataCollectionRunSettings>
+        <DataCollectors>
+          <DataCollector uri="datacollector://microsoft/EventLog/1.0" assemblyQualifiedName="Microsoft.VisualStudio.TestTools.DataCollection.EventLog.EventLogDataCollector, Microsoft.VisualStudio.TestTools.DataCollection.EventLog, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" friendlyName="Event Log">
+          </DataCollector>
+          <DataCollector uri="datacollector://microsoft/SystemInfo/1.0" assemblyQualifiedName="Microsoft.VisualStudio.TestTools.DataCollection.SystemInfo.SystemInfoDataCollector, Microsoft.VisualStudio.TestTools.DataCollection.SystemInfo, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" friendlyName="System Information">
+          </DataCollector>
+        </DataCollectors> 
+    </DataCollectionRunSettings>
+  <TestRunParameters>
+    <Parameter name="testMyValue" value="wrong value" />
+  </TestRunParameters>
+</RunSettings>
