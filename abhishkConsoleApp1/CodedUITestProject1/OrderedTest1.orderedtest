@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<OrderedTest name="OrderedTest1" storage="c:\users\abhishk\source\repos\dta3\abhishkconsoleapp1\codeduitestproject1\orderedtest1.orderedtest" id="9bd2993d-e15d-4b8e-be2c-65b782d04dad" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+<OrderedTest name="orderedtest1" storage="c:\users\abhishk\source\repos\dtarepo\abhishkconsoleapp1\codeduitestproject1\orderedtest1.orderedtest" id="9bd2993d-e15d-4b8e-be2c-65b782d04dad" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
   <TestLinks>
-    <TestLink id="4830f740-68e3-969b-191a-0f2bc0f99def" name="MultiplyTest" storage="bin\release\codeduitestproject1.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="c0f81af8-4dbb-7ad9-9a8f-1f0b2f76d085" name="AddTest" storage="..\unittestproject1\bin\release\unittestproject1.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
     <TestLink id="484ddbfe-fdc6-0f5d-9e7b-bab4da5b5905" name="CodedUITestMethod1" storage="bin\release\codeduitestproject1.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="3445f66f-99c1-cfb8-2335-931b2a2f38d9" name="SubtractTest" storage="..\unittestproject1\bin\release\unittestproject1.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="69882a69-7426-4ddd-9240-61095e952747" name="CodedUITestMethod2" storage="bin\release\codeduitestproject1.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="4830f740-68e3-969b-191a-0f2bc0f99def" name="MultiplyTest" storage="bin\release\codeduitestproject1.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
   </TestLinks>
 </OrderedTest>
